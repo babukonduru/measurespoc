@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="KETTLE" name="com.test.PickAndDrop" tests="5" failures="0" timestamp="7 Jan 2015 05:48:18 GMT" time="12.938" errors="0">
+  <testcase name="EnterUrl" time="3.339" classname="com.test.PickAndDrop"/>
+  <testcase name="EnterFormulaName" time="0.14" classname="com.test.PickAndDrop"/>
+  <testcase name="AddToNumerator" time="0.765" classname="com.test.PickAndDrop"/>
+  <testcase name="AddToDenumerator" time="0.624" classname="com.test.PickAndDrop"/>
+  <testcase name="SubmitTheChanges" time="0.0" classname="com.test.PickAndDrop"/>
+</testsuite>
